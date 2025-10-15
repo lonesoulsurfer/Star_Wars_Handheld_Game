@@ -8,8 +8,12 @@ Hardware Requirements
 
 
 Microcontroller: Adafruit Trinket M0
+
 Display: 128x64 OLED display (SSD1306, I2C)
+
 Controls: Analog resistor ladder button pad on pin A3
+
+
 Libraries Required:
 
 Wire.h
@@ -23,10 +27,15 @@ Button Configuration
 The game uses a resistor ladder on analog pin A3 with the following button mappings:
 
 SET (A Button): Fire/Select (analog value 200-300)
+
 UP: Move crosshair/ship up (analog value 38-40)
+
 DOWN: Move crosshair/ship down (analog value 44-47)
+
 LEFT: Move crosshair/ship left (analog value 74-75)
+
 RIGHT: Move crosshair/ship right (analog value 141-143)
+
 B Button: Alternative action (analog value 1020-1023)
 
 
@@ -39,12 +48,18 @@ Watch the twin suns set over Luke's moisture farm in this atmospheric 8-second o
 2. Womp Rat Training
 
 Objective: Destroy womp rats in Beggar's Canyon using your T-16 Skyhopper
+
 Goal: Score 200 points to complete training
+
+
 Features:
 
 Dynamic canyon walls with perspective scrolling
+
 Smart AI - womp rats evade your crosshair
+
 Animated rock obstacles embedded in canyon floor
+
 Realistic canyon terrain with depth and detail
 
 
