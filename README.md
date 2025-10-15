@@ -5,7 +5,7 @@ The original GitHub page can be found below which has all of the files needed to
 https://github.com/lonesoulsurfer/Conways_Game_of_life_Handheld
 
 
-
+ 
 Overview
 
 Experience the iconic Battle of Yavin in this comprehensive Star Wars arcade game for Arduino! This game recreates the climactic Death Star assault from A New Hope, featuring multiple training sequences, intense space combat, and the legendary trench run finale.
