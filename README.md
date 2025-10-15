@@ -1,4 +1,4 @@
-Star Wars:  - A Complete Arcade Experience for Arduino
+Star Wars:  - A Complete Arcade Experience for C++
 
 
 Overview
@@ -114,6 +114,7 @@ Goal: Score 500 points to reach trench entry
 
 
 8. Trench Entry (Cinematic)
+   
 5-second dramatic sequence showing your X-wing diving into the Death Star trench with motion lines and speed effects.
 
 
@@ -150,9 +151,12 @@ Miss the timing and return to trench run
 
 Success: Triggers missile shaft sequence
 
+
 12. Missile Shaft (Cinematic)
 
 Watch your proton torpedoes travel down the reactor shaft toward the Death Star's core with depth perspective and animated missile.
+
+
 13. Death Star Explosion (Cinematic)
 Epic 4-second multi-phase explosion:
 
@@ -177,6 +181,8 @@ Power-ups: 20 points each
 Exhaust Port Hit: 500 points bonus
 Health Restoration: Automatic +5% health every 200 points (all stages)
 
+
+
 Health System
 
 Starting health: 100%
@@ -190,7 +196,6 @@ Special Health Bonuses:
 +5% every 200 points throughout game
 
 
-
 Game Features
 Graphics Engine
 
@@ -199,6 +204,7 @@ Vector Graphics: Authentic 1983 arcade-style wireframe rendering
 Particle Effects: Explosions with expanding debris
 Starfield: Dynamic parallax scrolling with motion trails
 Cockpit View: Detailed X-wing canopy frame (tilts during Death Star surface)
+
 
 Enemy AI
 
@@ -216,11 +222,12 @@ Smooth Transitions: Cinematic scene changes
 
 Technical Highlights
 
-Memory Optimized: Runs smoothly on Arduino Uno (2KB RAM)
+Memory Optimized: Runs smoothly on Adafruit Trinket M0
 60 FPS Target: 20 FPS stable performance (50ms frame time)
 Structured Code: Clean state machine architecture
 Collision System: Efficient spatial checking
 Progressive Difficulty: Dynamic spawn rates and enemy behavior
+
 
 Controls Tips
 
