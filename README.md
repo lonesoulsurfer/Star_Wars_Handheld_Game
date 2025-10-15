@@ -103,28 +103,28 @@ Features:
 
       Objective: Destroy TIE Fighters approaching the Death Star
 
-      Enemy Types:
+          Enemy Types:
 
          TIE Fighters: Basic enemies with single-shot weapons
 
-         TIE Interceptors: Fast, weaving movement with burst fire
+          TIE Interceptors: Fast, weaving movement with burst fire
 
          TIE Bombers: Slow but durable with spread-shot weapons
 
 
       Features:
 
-      Vector-style wireframe graphics (authentic arcade look)
+            Vector-style wireframe graphics (authentic arcade look)
 
-      Enemy AI with different movement patterns and firing behaviors
+            Enemy AI with different movement patterns and firing behaviors
    
-      Power-ups dropped by destroyed enemies (shields, rapid fire)
+            Power-ups dropped by destroyed enemies (shields, rapid fire)
 
-      Background starfield with motion blur effects
+            Background starfield with motion blur effects
 
-      All enemies require 2 hits to destroy
+            All enemies require 2 hits to destroy
 
-      Goal: Score 500 points to proceed to Death Star approach
+            Goal: Score 500 points to proceed to Death Star approach
 
    
 
