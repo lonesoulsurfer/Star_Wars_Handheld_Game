@@ -1,4 +1,4 @@
-Star Wars:  - A Complete Arcade Experience for my handheld game originally designed for Conways Game of Life.
+Star Wars:  - A Complete Arcade Experience for my handheld game, originally designed for Conways Game of Life.
 
 The original GitHub page can be found below whichhas all of the files needed tomake your own
 
